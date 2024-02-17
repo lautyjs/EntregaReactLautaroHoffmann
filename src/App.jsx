@@ -1,7 +1,7 @@
 import Navbar from './Componentes/Navbar/Navbar'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { CarritoProvider } from './context/CarritoContext';
-import ItemDetailContainer from './componentes/ItemDetailContainer/ItemDetailContainer';
+import ItemDetailContainer from './Componentes/ItemDetailContainer/ItemDetailContainer';
 import ItemListContainer from './Componentes/ItemListContainer/ItemListContainer'
 import Cart from './Componentes/Cart/Cart';
 import Checkout from './Componentes/Checkout/Checkout';
