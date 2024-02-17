@@ -1,0 +1,12 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 1rem;
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    width: 50vw;
+    margin: auto;
+    margin-top: 10px;
+}

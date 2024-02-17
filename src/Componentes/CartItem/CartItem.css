@@ -1,0 +1,7 @@
+.CartItem{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    border: solid 1px white;
+    font-weight: bolder;
+}

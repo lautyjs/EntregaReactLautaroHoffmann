@@ -12,3 +12,14 @@
 img {
     width: 20vw;
 }
+
+.contador{
+    padding: 3px;
+    display: block;
+}
+
+.contenedorItem div{
+    display: flex;
+    justify-content: center;
+    
+}
